@@ -9,4 +9,4 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
 - If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 > The first player to score 20 or more points wins.
 
-<img src="https://github.com/aniket-24/pig-game/blob/master/pig_game.gif" />
+![pig-game](https://user-images.githubusercontent.com/76562459/179945297-6074cc8a-172c-46f6-8d36-47a91cc1573b.gif)
